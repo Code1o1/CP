@@ -1,0 +1,1 @@
+cout << member(A,5);
